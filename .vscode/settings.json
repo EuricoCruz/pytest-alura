@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "/Users/eurico_cruz/Documents/Alura/Python/testes-python-aula-04/ENV/bin/python3.7",
+  "python.testing.pytestArgs": [
+    "src"
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.nosetestsEnabled": false,
+  "python.testing.pytestEnabled": true
+}
